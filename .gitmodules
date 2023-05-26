@@ -1,0 +1,3 @@
+[submodule "academics_IIA"]
+	path = academics_IIA
+	url = git@github.com:MrAlessandro/academics_IIA.git
